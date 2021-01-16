@@ -14,9 +14,9 @@ This application will allow users to search for books utilizing the Google Books
 
 ## Screenshots
 
-![](Screenshot1.png)
+![](screenshot1.png)
 
-![](Screenshot2.png)
+![](screenshot2.png)
 
 ## Deployed Application
 
